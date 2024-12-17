@@ -1,0 +1,7 @@
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.AssemblyInfoInputs.cache
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.AssemblyInfo.cs
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.csproj.CoreCompileInputs.cache
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.RazorAssemblyInfo.cache
+D:\GitHubProject\TestMVCApp\TestMVCApp\obj\Debug\net8.0\TestMVCApp.RazorAssemblyInfo.cs
