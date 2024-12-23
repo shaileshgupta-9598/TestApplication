@@ -8,5 +8,6 @@
         public int Age { get; set; }
         public string Address { get; set; }
         public DateTime CreatedDate { get; set; }
+        public int stateCode { get; set;}
     }
 }
